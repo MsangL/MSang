@@ -35,15 +35,14 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 
 ---
 
-## 📚 Publications
-
+## 📚 Publications and communications
+### Publications 
 1. **"Loads Scheduling for Demand Response in Energy Communities"**  
    _Mariam Sangaré, Eric Bourreau, Bernard Fortz, Amaury Pachurka, and Michael Poss_  
    _Computers & Operations Research, 2024_ [DOI](https://doi.org/10.1016/j.cor.2023.106358)
 
 ---
-
-## 📚 Articles Under Review
+#### 📚 Articles Under Review
 
 1. **"Cooperative Game Theory and Cost Allocation in Energy Communities"**  
    _Mariam Sangaré, Luce Brotcorne, Hélène le Cadre, and Michael Poss_  
@@ -52,6 +51,11 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 2. **"A Distributed Scheduling Method for Demand Response in Energy Communities with Distributed Generation and Storage"**  
    _Mariam Sangaré, Eric Bourreau, and Michael Poss_  
    _Annals of Operations Research, 2024_
+   
+### 📚 Communications
+1. **"Cooperative Game Theory and Cost Allocation in Energy Communities"**  
+   _Mariam Sangaré, Luce Brotcorne, Hélène le Cadre, and Michael Poss_  
+   _European Journal of Operational Research, 2024_
 
 ---
 
