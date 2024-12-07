@@ -1,17 +1,22 @@
+# Project Title
+
+A brief description of what this project does and its purpose.
+
 ## 🎯 About Me
-Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
+
+Postdoctoral Researcher at INRIA Bordeaux, EDGE team.
 
 **Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), titled "Managing the Electrical Systems of Tomorrow."**
 
-On one hand, I am interested in analyzing the economic and social viability of innovations in distribution networks, as well as developing load planning tools that enable efficient and equitable energy management. On the other hand, I work on long-term investment issues in electrical networks, at the scale of one or more states, to meet projected demand over several years. These works take into account technical, economic, and environmental constraints, while integrating the inherent uncertainty of these issues.
+I am interested in analyzing the economic and social viability of innovations in distribution networks, as well as developing load planning tools that enable efficient and equitable energy management. Additionally, I work on long-term investment issues in electrical networks, at the scale of one or more states, to meet projected demand over several years. My research takes into account technical, economic, and environmental constraints while integrating the inherent uncertainty of these challenges.
 
 ---
 
 ## 🌱 Key Words
-- **Operations research**
-- **Combinatorial optimization**
-- **Bilevel optimization**
-- **Optimization under uncertainty**
+- **Operations Research**
+- **Combinatorial Optimization**
+- **Bilevel Optimization**
+- **Optimization under Uncertainty**
 
 ---
 
@@ -43,7 +48,7 @@ On one hand, I am interested in analyzing the economic and social viability of i
 
 ---
 
-## Articles Under Review
+## 📚 Articles Under Review
 
 1. **"Cooperative Game Theory and Cost Allocation in Energy Communities"**  
    _Mariam Sangaré, Luce Brotcorne, Hélène le Cadre, and Michael Poss_  
@@ -58,13 +63,16 @@ On one hand, I am interested in analyzing the economic and social viability of i
 ## 🌟 Projects
 
 - **Decomposition Algorithms for Long-Term Investment Problems**  
-  _Objective: develop algoriths to solve large scale investment problems._
+  _Objective: Develop algorithms to solve large-scale investment problems._
 
 ---
-## 📚 Teaching experiences
-I taught the following courses as an adjunct lecturer during my thesis.
+
+## 📚 Teaching Experiences
+
+I taught the following courses as an adjunct lecturer during my PhD.
+
 ### **Operations Research – Supplementary**
-- **Level**: Master in Algorithms (Algo), University of Montpellier, 1st Year
+- **Level**: Master's in Algorithms (Algo), University of Montpellier, 1st Year
 - **Instructor**: [Eric Bourreau](https://www.lirmm.fr/eric-bourreau/)
 - **Hours**: 36
 - **Description**: This course is divided into two parts: Mixed-Integer Linear Programming and Dynamic Programming. The aim of the Linear Programming part is to learn how to model a problem formulated in natural language as a linear program and solve it after implementing it in CPLEX’s OPL language. The goal of the Dynamic Programming part is to represent and solve optimization problems as sub-problems that are easier to solve.
@@ -72,10 +80,10 @@ I taught the following courses as an adjunct lecturer during my thesis.
 ---
 
 ### **Industrial Operations Research**
-- **Level**: Master in Algorithms (Algo), University of Montpellier, 2nd Year
-- **Instructors**: [Eric Bourreau](https://www.lirmm.fr/eric-bourreau/), [Chloé Desdouits](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.linkedin.com/in/cdesdouits&ved=2ahUKEwirlde1j9KJAxULKvsDHejmFXUQFnoECBkQAQ&usg=AOvVaw19DfS5Ouuw34ZYS440_rWi)
+- **Level**: Master's in Algorithms (Algo), University of Montpellier, 2nd Year
+- **Instructors**: [Eric Bourreau](https://www.lirmm.fr/eric-bourreau/), [Chloé Desdouits](https://www.linkedin.com/in/cdesdouits)
 - **Hours**: 36
-- **Description**: This course focuses on operations research from an industrial perspective. The objective is to model, implement, and solve a real-world problem proposed by an industrial partner, while adopting best programming practices, particularly in a DevOps approach. Students are introduced to scientific research, including performing literature reviews, analyzing results from their solution approaches, and comparing them to existing literature methods.
+- **Description**: This course focuses on operations research from an industrial perspective. The objective is to model, implement, and solve a real-world problem proposed by an industrial partner while adopting best programming practices, particularly in a DevOps approach. Students are introduced to scientific research, including performing literature reviews, analyzing results from their solution approaches, and comparing them to existing methods in the literature.
 
 ---
 
@@ -93,13 +101,21 @@ I taught the following courses as an adjunct lecturer during my thesis.
 - **Hours**: 33
 - **Description**: This course introduces students to UML modeling of a problem described in natural language, followed by object-oriented programming in Java. Students learn object-oriented programming principles such as encapsulation, inheritance, abstraction, and polymorphism.
 
-
 ---
 
-
 ## 📫 Contact
+
 - **Email**: [mariam.sangare@inria.fr](mailto:mariam.sangare@inria.fr)
 
 ---
 
 Thank you for visiting my repository! Feel free to explore my projects and reach out if you have any questions or would like to collaborate. 😊
+
+---
+
+## Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/yourrepository.git
+   cd yourrepository
