@@ -65,6 +65,64 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 
 3. **"ROADEF 2025"**  
    _Date_: February 2025
+   
+### 📚 Past Presentations
+
+1. **[ROADEF 2022](https://roadef2022.sciencesconf.org/program?lang=fr)**  
+   _Location_: Lyon, France  
+   _Date_: February 23-25, 2022
+
+2. **[INOC 2022](https://www.math2.rwth-aachen.de/files/inoc2022/handbook.pdf)**  
+   _Location_: Aachen, Germany  
+   _Date_: June 7-10, 2022
+
+3. **[EURO 2022](https://www.euro-online.org/conf/admin/tmp/program-euro32.pdf)**  
+   _Location_: Espoo, Finland  
+   _Date_: July 3-6, 2022
+
+4. **[ROADEF 2023](https://roadef2023.sciencesconf.org/)**  
+   _Location_: Rennes, France  
+   _Date_: February 20-23, 2023
+
+5. **[Optimization 2023](https://optimization2023.web.ua.pt/program.html)**  
+   _Location_: Aveiro, Portugal  
+   _Date_: July 24-26, 2023
+
+6. **[ROADEF 2024](https://roadef2024.sciencesconf.org/program?lang=fr)**  
+   _Location_: Amiens, France  
+   _Date_: March 4-7, 2024
+
+7. **[EURO 2024](https://www.euro-online.org/conf/euro33/program)**  
+   _Location_: Copenhagen, Denmark  
+   _Date_: June 30 - July 3, 2024
+
+---
+
+### 🗣️ Invited Seminars
+
+1. **Centre INRIA Lille - Nord Europe, Team INOC**  
+   _Date_: January 13, 2023
+
+2. **Centre INRIA de Bordeaux, Équipe EDGE**  
+   _Date_: January 18, 2024
+
+---
+
+### 💡 Working Groups
+
+1. **[Julia and Optimization](https://julia-users-paris.github.io/workshop/en/index.html)**  
+   _Location_: Paris, France  
+   _Date_: October 4-6, 2023
+
+2. **[Energy and Stochastic Optimization](https://cermics-lab.enpc.fr/seso2023/)**  
+   _Location_: Paris, France  
+   _Date_: October 9-13, 2023  
+   _Note_: Presented at the event
+
+3. **[Second Level Optimization](https://www.cirm-math.fr/Schedule/display.php?id_renc=3031)**  
+   _Location_: Marseille, France  
+   _Date_: April 2-5, 2024  
+   _Note_: Presented at the event
 
 ---
 
