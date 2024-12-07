@@ -91,7 +91,7 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 
 ## 📚 Teaching Experiences
 
-I taught the following courses as an adjunct lecturer during my PhD.
+I taught the following courses as an adjunct lecturer during my PhD [for](https://github.com/MsangL/MSang/blob/main/teach.md).
 
 ---
 
