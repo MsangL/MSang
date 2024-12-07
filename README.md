@@ -19,22 +19,20 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 ## 🎓 Education
 
 - **Ph.D. in Computer Science**  
-  _Institution_: University of Bordeaux  
-  _Field of Study_: Power Systems Optimization  
-  _Year_: 2016 - 2021  
-  _Thesis_: "Decomposition Methods for Long-Term Investment Planning in Power Networks"
+  _Institution_: University of Montpellier, France
+  _Field of Study_: Operations research  
+  _Year_: 2021 - 2024  
+  _Thesis_: "Optimization and modeling for energy communities"
 
-- **Master's Degree in Applied Mathematics**  
-  _Institution_: École Polytechnique  
-  _Field of Study_: Mathematical Modeling and Computation  
-  _Year_: 2014 - 2016  
+- **State Engineer in Operations Research and Decision Support**  
+  _Institution_: [National Institute of Statistics and Applied Economics](https://insea.ac.ma/), Rabat -- Maroc
+  _Field of Study_: Operations research  
+  _Year_: 2017 - 2020  
   _Notable Achievement_: Graduated with honors
 
-- **High School Diploma (Scientific Stream)**  
-  _Institution_: Lycée Jules Verne  
-  _Field of Study_: Sciences  
-  _Year_: 2010 - 2014  
-  _Notable Achievement_: Ranked top 5% nationally
+- **High School Diploma**  
+  _Institution_: Lycée le Birgo  
+  _Field of Study_: Exact sciences  
 
 ---
 
