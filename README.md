@@ -3,10 +3,9 @@
 ## 🎯 About me
 Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 
-**Member of the [challenge EDF-INRIA](https://www.inria.fr/fr/inria-edf)**: Managing the electrical systems of tomorrow.
+**Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), titled "Managing the Electrical Systems of Tomorrow."**
 
-- **Challenge Focus Modeling and optimization for long-term investments in the power grid
-  - **Postdoc Title**: Decomposition algorithms for long-term investment problems
+- *My work focuses on modeling and optimization for long-term investments in the power network, specifically determining annual investment levels in electricity generation and storage units over a planning horizon. These decisions aim to meet projected demand while adhering to technical, environmental, and economic constraints.
 
 ---
 
