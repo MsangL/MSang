@@ -5,7 +5,7 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 
 **Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), titled "Managing the Electrical Systems of Tomorrow."**
 
-- On one hand, I am interested in analyzing the economic and social viability of innovations in distribution networks, as well as developing load planning tools that enable efficient and equitable energy management. On the other hand, I work on long-term investment issues in electrical networks, at the scale of one or more states, to meet projected demand over several years. These works take into account technical, economic, and environmental constraints, while integrating the inherent uncertainty of these issues.
+-On one hand, I am interested in analyzing the economic and social viability of innovations in distribution networks, as well as developing load planning tools that enable efficient and equitable energy management. On the other hand, I work on long-term investment issues in electrical networks, at the scale of one or more states, to meet projected demand over several years. These works take into account technical, economic, and environmental constraints, while integrating the inherent uncertainty of these issues.
 ---
 
 ## 🌱 Key words
@@ -33,20 +33,18 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 - **High School Diploma**  
   _Institution_: Lycée le Birgo  
   _Field of Study_: Exact sciences  
-
 ---
 
 ## 📚 Publications
 
-1. **"Decomposition Methods for Long-Term Investment Problems in Power Networks"**  
-   _Journal of Optimization Studies, 2021_  
-   A study exploring advanced decomposition algorithms for optimizing investments in power grid infrastructure.
-
-2. **"Optimization Models for Energy Storage Systems in Electrical Networks"**  
+1. **"Loads scheduling for demand response in energy communities."**  
+   _Mariam Sangaré, Eric Bourreau, Bernard Fortz, Amaury Pachurka, and Michael Poss
+   _Computers Operations Research
+3. **"Optimization Models for Energy Storage Systems in Electrical Networks"**  
    _International Journal of Energy Research, 2020_  
    This paper discusses the role of energy storage in optimizing electricity supply and demand in future power grids.
 
-3. **"A Comparative Study of Renewable Energy Integration into Power Systems"**  
+4. **"A Comparative Study of Renewable Energy Integration into Power Systems"**  
    _Renewable and Sustainable Energy Reviews, 2019_  
    This article compares the efficiency and integration challenges of various renewable energy sources in power systems.
 
