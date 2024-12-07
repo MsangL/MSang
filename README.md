@@ -39,7 +39,8 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 
 1. **"Loads scheduling for demand response in energy communities."**  
    _Mariam Sangaré, Eric Bourreau, Bernard Fortz, Amaury Pachurka, and Michael Poss_
-   - Computers Operations Research, [doi](https://doi.org/10.1016/j.cor.2023.106358).
+   _Computers Operations Research, [doi](https://doi.org/10.1016/j.cor.2023.106358)._
+   
 3. **"Optimization Models for Energy Storage Systems in Electrical Networks"**  
    _International Journal of Energy Research, 2020_  
    This paper discusses the role of energy storage in optimizing electricity supply and demand in future power grids.
