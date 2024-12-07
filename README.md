@@ -5,16 +5,15 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 
 **Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), titled "Managing the Electrical Systems of Tomorrow."**
 
-- My work focuses on modeling and optimization for long-term investments in the power network, specifically determining annual investment levels in electricity generation and storage units over a planning horizon. These decisions aim to meet projected demand while adhering to technical, environmental, and economic constraints.
-
+- On one hand, I am interested in analyzing the economic and social viability of innovations in distribution networks, as well as developing load planning tools that enable efficient and equitable energy management. On the other hand, I work on long-term investment issues in electrical networks, at the scale of one or more states, to meet projected demand over several years. These works take into account technical, economic, and environmental constraints, while integrating the inherent uncertainty of these issues.
 ---
 
 ## 🌱 Key words
-- **Operations reasearch** 
-  - **Compétence principale 2** : [Description succincte]
-  - **Technologies utilisées** : [Exemples de langages, frameworks, outils]
+- **Operations research** 
+  - **Combinatorial optimization** 
+  - **Bilevel optimization**
+  - **Optimization under uncertainty** 
 
-Je suis particulièrement intéressé(e) par **[vos intérêts spécifiques : ex. apprentissage automatique, cybersécurité, développement full-stack]** et je cherche constamment à élargir mes connaissances dans ces domaines.
 
 ---
 ## 🎓 Education
