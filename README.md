@@ -29,7 +29,7 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
   _Year_: 2017 - 2020  
 
 - **High School Diploma**  
-  _Institution_: Lycée le Birgo  
+  _Institution_: Lycée le Birgo, Bamako, Mali
   _Field of Study_: Exact Sciences
 
 ---
