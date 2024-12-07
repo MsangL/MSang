@@ -43,7 +43,7 @@ On one hand, I am interested in analyzing the economic and social viability of i
 
 ---
 
-## 📚 Articles Under Review
+## Articles Under Review
 
 1. **"Cooperative Game Theory and Cost Allocation in Energy Communities"**  
    _Mariam Sangaré, Luce Brotcorne, Hélène le Cadre, and Michael Poss_  
