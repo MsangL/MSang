@@ -27,7 +27,6 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
   _Institution_: [National Institute of Statistics and Applied Economics](https://insea.ac.ma/), Rabat, Morocco  
   _Field of Study_: Operations Research  
   _Year_: 2017 - 2020  
-  _Notable Achievement_: Graduated with honors
 
 - **High School Diploma**  
   _Institution_: Lycée le Birgo  
@@ -62,9 +61,6 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 2. **"Transitions through the Lens of Digital Technology, Computing, and Mathematics"**  
    _Presentation_: A draft is available [here](https://github.com/MsangL/Docs/blob/main/slideSoutenance.pdf)  
    _Date_: January 21, 2025
-
-3. **"ROADEF 2025"**  
-   _Date_: February 2025
    
 #### Past Presentations
 
