@@ -1,0 +1,12 @@
+/* Ajuster la taille du texte globalement */
+body {
+    font-size: 18px;  /* Augmente la taille de base du texte */
+}
+
+/* Augmenter la taille des titres (h1, h2, etc.) */
+h1 {
+    font-size: 2.5em;  /* Par exemple, titre h1 plus grand */
+}
+h2 {
+    font-size: 2em;
+}
