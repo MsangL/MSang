@@ -6,9 +6,7 @@ A brief description of what this project does and its purpose.
 
 I am a postdoctoral researcher at INRIA Bordeaux in the team [EDGE](https://edge.gitlabpages.inria.fr/) and under the supervision of [Ayse N. Arslan](https://edge.gitlabpages.inria.fr/team-members/arslan/), [Boris Detienne](https://edge.gitlabpages.inria.fr/team-members/detienne/), and [Aurélien Froger](https://edge.gitlabpages.inria.fr/team-members/froger/).
 
-**Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), titled "Managing the Electrical Systems of Tomorrow."**
-
-I am interested in analyzing the economic and social viability of innovations in distribution networks, as well as developing load planning tools that enable efficient and equitable energy management. Additionally, I work on long-term investment issues in electrical networks, at the scale of one or more states, to meet projected demand over several years. My research takes into account technical, economic, and environmental constraints while integrating the inherent uncertainty of these challenges.
+Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), titled "Managing the Electrical Systems of Tomorrow, I am interested in analyzing the economic and social viability of innovations in distribution networks, as well as developing load planning tools that enable efficient and equitable energy management. Additionally, I work on long-term investment issues in electrical networks, at the scale of one or more states, to meet projected demand over several years. My research takes into account technical, economic, and environmental constraints while integrating the inherent uncertainty of these challenges.
 
 ---
 
