@@ -66,7 +66,7 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 3. **"ROADEF 2025"**  
    _Date_: February 2025
    
-### Past Presentations
+#### Past Presentations
 
 1. **[EURO 2024](https://www.euro-online.org/conf/euro33/program)**  
    _Location_: Copenhagen, Denmark  
