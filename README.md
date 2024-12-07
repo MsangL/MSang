@@ -58,11 +58,11 @@ On one hand, I am interested in analyzing the economic and social viability of i
 ## 🌟 Projects
 
 - **Decomposition Algorithms for Long-Term Investment Problems**  
-  _Objective: Improve energy efficiency and reduce the carbon footprint in urban areas._
+  _Objective: develop algoriths to solve large scale investment problems._
 
 ---
-## 📚 Teaching
-
+## 📚 Teaching experiences
+I taught the following courses as an adjunct lecturer during my thesis.
 ### **Operations Research – Supplementary**
 - **Level**: Master in Algorithms (Algo), University of Montpellier, 1st Year
 - **Instructor**: [Eric Bourreau](https://www.lirmm.fr/eric-bourreau/)
