@@ -53,12 +53,19 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
    
    
 ### 📚 Communications
+
 #### Upcoming
 1. **"Presentation to ENS students"**  
-   _Presentation_: a draf available [at](https://github.com/MsangL/Docs/blob/main/slideSoutenance.pdf)
-   
-3. **"Transitions through the Lens of Digital Technology, Computing, and Mathematics"**
-   _Presentation_: a draf available [at](https://github.com/MsangL/Docs/blob/main/slideSoutenance.pdf)
+   _Presentation_: A draft is available [here](https://github.com/MsangL/Docs/blob/main/slideSoutenance.pdf)  
+   _Date_: December 12, 2024
+
+2. **"Transitions through the Lens of Digital Technology, Computing, and Mathematics"**  
+   _Presentation_: A draft is available [here](https://github.com/MsangL/Docs/blob/main/slideSoutenance.pdf)  
+   _Date_: January 21, 2025
+
+3. **"ROADEF 2025"**  
+   _Date_: February 2025
+
 ---
 
 ## 🌟 Projects
