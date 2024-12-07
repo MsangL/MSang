@@ -3,3 +3,5 @@ logo: na.jpg
 description: text below image
 show_dowload: true
 theme: jekyll-theme-minimal
+css:
+  - "css.css"
