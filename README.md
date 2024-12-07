@@ -35,7 +35,7 @@ On one hand, I am interested in analyzing the economic and social viability of i
 
 1. **"Loads scheduling for demand response in energy communities."**  
    _Mariam Sangaré, Eric Bourreau, Bernard Fortz, Amaury Pachurka, and Michael Poss_
-   _Computers Operations Research,2024 [doi](https://doi.org/10.1016/j.cor.2023.106358)._
+   _Computers Operations Research, 2024 [doi](https://doi.org/10.1016/j.cor.2023.106358)._
    
 ## 📚 Articles under review
 1. **"Cooperative game theory and cost allocation in energy communities"**  
