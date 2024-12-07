@@ -1,8 +1,6 @@
 
 
-A brief description of what this project does and its purpose.
-
-## 🎯 About Me
+# 🎯 About Me
 
 I am a postdoctoral researcher at INRIA Bordeaux in the team [EDGE](https://edge.gitlabpages.inria.fr/) and under the supervision of [Ayse N. Arslan](https://edge.gitlabpages.inria.fr/team-members/arslan/), [Boris Detienne](https://edge.gitlabpages.inria.fr/team-members/detienne/), and [Aurélien Froger](https://edge.gitlabpages.inria.fr/team-members/froger/).
 
@@ -110,10 +108,3 @@ I taught the following courses as an adjunct lecturer during my PhD.
 Thank you for visiting my repository! Feel free to explore my projects and reach out if you have any questions or would like to collaborate. 😊
 
 ---
-
-## Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
