@@ -9,10 +9,10 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 
 ---
 
-## 🌱 Mon domaine d'expertise
-- **Compétence principale 1** : [Description succincte]
-- **Compétence principale 2** : [Description succincte]
-- **Technologies utilisées** : [Exemples de langages, frameworks, outils]
+## 🌱 Key words
+- **Operations reasearch** 
+  - **Compétence principale 2** : [Description succincte]
+  - **Technologies utilisées** : [Exemples de langages, frameworks, outils]
 
 Je suis particulièrement intéressé(e) par **[vos intérêts spécifiques : ex. apprentissage automatique, cybersécurité, développement full-stack]** et je cherche constamment à élargir mes connaissances dans ces domaines.
 
