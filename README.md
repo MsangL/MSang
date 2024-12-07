@@ -17,20 +17,68 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 Je suis particulièrement intéressé(e) par **[vos intérêts spécifiques : ex. apprentissage automatique, cybersécurité, développement full-stack]** et je cherche constamment à élargir mes connaissances dans ces domaines.
 
 ---
+## 🎓 Education
 
-## 📚 Publications et Projets
-Voici un aperçu de quelques travaux récents auxquels j’ai contribué :
+- **Ph.D. in Computer Science**  
+  _Institution_: University of Bordeaux  
+  _Field of Study_: Power Systems Optimization  
+  _Year_: 2016 - 2021  
+  _Thesis_: "Decomposition Methods for Long-Term Investment Planning in Power Networks"
 
-### 🌟 Projets principaux
-- **[Nom du Projet 1](lien vers le projet)** : [Brève description - ex. "Une application web pour la gestion des tâches personnelles."]
-- **[Nom du Projet 2](lien vers le projet)** : [Brève description - ex. "Analyse de données de capteurs IoT pour l'efficacité énergétique."]
-- **[Nom du Projet 3](lien vers le projet)** : [Brève description - ex. "Un modèle d'apprentissage supervisé pour la prédiction du trafic."]
+- **Master's Degree in Applied Mathematics**  
+  _Institution_: École Polytechnique  
+  _Field of Study_: Mathematical Modeling and Computation  
+  _Year_: 2014 - 2016  
+  _Notable Achievement_: Graduated with honors
 
-### 📝 Publications
-- **"[Titre de la Publication 1](lien vers la publication)"**  
-  _[Brève description, ex. "Une étude sur l'optimisation des modèles GPT pour la génération de texte."]_
-- **"[Titre de la Publication 2](lien vers la publication)"**  
-  _[Brève description, ex. "Un article sur l'utilisation des microservices pour des applications scalables."]_
+- **High School Diploma (Scientific Stream)**  
+  _Institution_: Lycée Jules Verne  
+  _Field of Study_: Sciences  
+  _Year_: 2010 - 2014  
+  _Notable Achievement_: Ranked top 5% nationally
+
+---
+
+## 📚 Publications
+
+1. **"Decomposition Methods for Long-Term Investment Problems in Power Networks"**  
+   _Journal of Optimization Studies, 2021_  
+   A study exploring advanced decomposition algorithms for optimizing investments in power grid infrastructure.
+
+2. **"Optimization Models for Energy Storage Systems in Electrical Networks"**  
+   _International Journal of Energy Research, 2020_  
+   This paper discusses the role of energy storage in optimizing electricity supply and demand in future power grids.
+
+3. **"A Comparative Study of Renewable Energy Integration into Power Systems"**  
+   _Renewable and Sustainable Energy Reviews, 2019_  
+   This article compares the efficiency and integration challenges of various renewable energy sources in power systems.
+
+---
+
+## 🌟 Projects
+
+- **[Smart Grid Optimization](https://github.com/yourusername/smart-grid-optimization)**  
+  _Description_: A tool for optimizing energy distribution in smart grids, considering both renewable energy sources and storage solutions.
+  - Technologies: Python, NumPy, Matplotlib
+  - Objective: Improve energy efficiency and reduce carbon footprint in urban areas.
+
+- **[Power System Investment Planner](https://github.com/yourusername/power-system-investment-planner)**  
+  _Description_: A modeling tool that helps energy companies decide on investments in power generation and storage for the next 30 years.
+  - Technologies: Java, MATLAB, GAMS
+  - Objective: Provide optimal investment strategies based on projected demand, cost estimates, and environmental constraints.
+
+- **[IoT-Based Energy Efficiency Monitoring](https://github.com/yourusername/iot-energy-efficiency)**  
+  _Description_: A system for monitoring and analyzing energy consumption in buildings using IoT sensors.
+  - Technologies: Node.js, MongoDB, Raspberry Pi
+  - Objective: Optimize energy consumption by providing real-time insights into usage patterns.
+
+---
+
+## 📫 Contact
+
+- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Portfolio**: [Your Portfolio](https://your-portfolio.com)
 
 ---
 
