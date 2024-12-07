@@ -1,9 +1,13 @@
-# 👋 Bienvenue !
+# 👋 Welcome !
 
-## 🎯 À propos de moi
-Bonjour ! Je m'appelle **[Votre Nom]** et je suis un(e) passionné(e) de **[Votre Domaine]**.  
-Actuellement, je travaille en tant que **[Votre Rôle/Position]** chez **[Votre Organisation/Entreprise]**, où je me concentre sur **[votre spécialité, ex. développement web, analyse de données, IA, etc.]**.
+## 🎯 About me
+Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
+Member of the [challenge EDF--INRIA](https://www.inria.fr/fr/inria-edf): **Managing the electrical systems of tomorrow**.
 
+- **Challenge Focus**: Modeling and optimization for long-term investments in the power grid
+  - **Postdoc Title**: Decomposition algorithms for long-term investment problems
+
+- **References**: [1a](#R1a), [1b](#R1b)
 ---
 
 ## 🌱 Mon domaine d'expertise
