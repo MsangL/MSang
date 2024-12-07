@@ -4,7 +4,7 @@ A brief description of what this project does and its purpose.
 
 ## 🎯 About Me
 
-I am a postdoctoral researcher at INRIA Bordeaux in the team [EDGE](https://edge.gitlabpages.inria.fr/) and under the supervision of [https://edge.gitlabpages.inria.fr/team-members/arslan/](Ayse N. Arslan), [Boris Detienne](https://edge.gitlabpages.inria.fr/team-members/detienne/), and [Aurélien Froger](https://edge.gitlabpages.inria.fr/team-members/froger/).
+I am a postdoctoral researcher at INRIA Bordeaux in the team [EDGE](https://edge.gitlabpages.inria.fr/) and under the supervision of [Ayse N. Arslan](https://edge.gitlabpages.inria.fr/team-members/arslan/), [Boris Detienne](https://edge.gitlabpages.inria.fr/team-members/detienne/), and [Aurélien Froger](https://edge.gitlabpages.inria.fr/team-members/froger/).
 
 **Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), titled "Managing the Electrical Systems of Tomorrow."**
 
