@@ -25,7 +25,7 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
   _Thesis_: "Optimization and modeling for energy communities"
 
 - **State Engineer in Operations Research and Decision Support**  
-  _Institution_: [National Institute of Statistics and Applied Economics](https://insea.ac.ma/), Rabat-Maroc
+  _Institution_: [National Institute of Statistics and Applied Economics](https://insea.ac.ma/), Rabat, Maroc
   _Field of Study_: Operations research  
   _Year_: 2017 - 2020  
   _Notable Achievement_: Graduated with honors
