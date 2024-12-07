@@ -59,10 +59,7 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 ---
 
 ## 📫 Contact
-
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio**: [Your Portfolio](https://your-portfolio.com)
+- **Email**: [mariam.sangare@inria.fr](mailto:your.email@example.com)
 
 ---
 
