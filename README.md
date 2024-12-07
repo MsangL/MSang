@@ -1,5 +1,3 @@
-
-
 # 🎯 About Me
 
 I am a postdoctoral researcher at INRIA Bordeaux in the team [EDGE](https://edge.gitlabpages.inria.fr/) and under the supervision of [Ayse N. Arslan](https://edge.gitlabpages.inria.fr/team-members/arslan/), [Boris Detienne](https://edge.gitlabpages.inria.fr/team-members/detienne/), and [Aurélien Froger](https://edge.gitlabpages.inria.fr/team-members/froger/).
@@ -13,6 +11,7 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 - **Combinatorial Optimization**
 - **Bilevel Optimization**
 - **Optimization under Uncertainty**
+- **Electric network**
 
 ---
 
