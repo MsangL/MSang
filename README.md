@@ -76,7 +76,7 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
    _Location_: Paris, France  
    _Date_: October 9-13, 2023  
 
-3. **[Second Level Optimization](https://www.cirm-math.fr/Schedule/display.php?id_renc=3031)**  
+3. **[Optimization at the second level](https://www.cirm-math.fr/Schedule/display.php?id_renc=3031)**  
    _Location_: Marseille, France  
    _Date_: April 2-5, 2024  
 
