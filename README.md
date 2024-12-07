@@ -44,20 +44,17 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 ### 📚 Under review
 3. **"Cooperative game theory and cost allocation in energy communities"**  
    _Mariam Sangaré, Luce Brotcorne, Hélène le Cadre, and Michael Poss_  
-   _European Journal of Operational Research,2024._
+   _European Journal of Operational Research, 2024._
 
-4. **"A Comparative Study of Renewable Energy Integration into Power Systems"**  
-   _Renewable and Sustainable Energy Reviews, 2019_  
-   This article compares the efficiency and integration challenges of various renewable energy sources in power systems.
-
+4. **"A distributed scheduling method for demand response in energy communities with distributed generation and storage"**  
+   _Mariam Sangaré, Eric Bourreau, and Michael Poss_
+   _Annals of operations research, 2024._
 ---
 
 ## 🌟 Projects
 
-- **[Smart Grid Optimization](https://github.com/yourusername/smart-grid-optimization)**  
-  _Description_: A tool for optimizing energy distribution in smart grids, considering both renewable energy sources and storage solutions.
-  - Technologies: Python, NumPy, Matplotlib
-  - Objective: Improve energy efficiency and reduce carbon footprint in urban areas.
+- **Decomposition algorithms for long term investment problems**  
+  _Objective: Improve energy efficiency and reduce carbon footprint in urban areas._
 
 ---
 
