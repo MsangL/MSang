@@ -66,12 +66,4 @@ Postdoctoral Research Position at INRIA Bordeaux, EDGE team.
 
 ---
 
-## 📫 Contactez-moi
-Vous pouvez me joindre via :
-- **LinkedIn** : [Votre Profil](https://linkedin.com/in/votreprofil)
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)
-- **Portfolio** : [Lien vers votre site personnel ou portfolio](https://votre-portfolio.com)
-
----
-
 Merci d’avoir visité mon dépôt ! N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer. 😊
