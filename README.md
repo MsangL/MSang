@@ -7,10 +7,10 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 ---
 
 ## 🌱 Key Words
-- **Operations Research**
-- **Combinatorial Optimization**
-- **Bilevel Optimization**
-- **Optimization under Uncertainty**
+- **Operations research**
+- **Combinatorial optimization**
+- **Bilevel optimization**
+- **Optimization under uncertainty**
 - **Electric network**
 
 ---
@@ -18,7 +18,7 @@ Participant in the [EDF-INRIA Challenge](https://www.inria.fr/fr/inria-edf), tit
 ## 🎓 Education
 
 - **Ph.D. in Computer Science**  
-  _Institution_: University of Montpellier, France  
+  _Institution_: LIRMM - University of Montpellier, France  
   _Field of Study_: Operations Research  
   _Year_: 2021 - 2024  
   _Thesis_: "Optimization and Modeling for Energy Communities"
